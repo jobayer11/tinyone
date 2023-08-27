@@ -3,4 +3,4 @@ PSD to Bootstrap project tinyone full
 
 
 
-https://jobayerhossain4.github.io/tinyone/
+https://jobayer11.github.io/tinyone/
